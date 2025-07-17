@@ -36,7 +36,7 @@
 ...
 
 ---
-
+<!--
 ## 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=yourusername&theme=dark&show_icons=true)
@@ -56,3 +56,4 @@
 
 ## 📌 Top Contributed Repos
 [![Your Repo](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=yourrepo&theme=dark)](https://github.com/yourusername/yourrepo)
+--?>
