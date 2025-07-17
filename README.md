@@ -10,8 +10,8 @@
 
 ## 🔗 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-@yourhandle-red?style=for-the-badge&logo=instagram)](https://www.instagram.com/invisible_underscore/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/)
-[![Email](https://img.shields.io/badge/Email-Mail-ff69b4?style=for-the-badge&logo=gmail)](mailto:you@example.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/aryan-9847812ba/)
+[![Email](https://img.shields.io/badge/Email-Mail-ff69b4?style=for-the-badge&logo=gmail)](mailto:professionally.aryan20@gmail.com)
 
 ---
 
@@ -21,6 +21,11 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Spring Boot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+
 ...
 
 ---
